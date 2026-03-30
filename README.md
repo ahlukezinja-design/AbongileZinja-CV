@@ -1,7 +1,7 @@
 # Abongile Zinja-CV
 
-# ABONGILE ZINJA
-
+### ABONGILE ZINJA
+---
 ## Contact Information
 - **Phone:** 065 541 5913 / 082 055 5675
 - **Email:** ahlukezinja@gmail.com
@@ -67,7 +67,8 @@ However, I have gained knowledge and practical skills through my academic studie
 ---
 
 ## Mock Interview Video
-[Click here to watch my mock interview video](PASTE-YOUR-VIDEO-LINK-HERE)
+[Click here to watch my mock interview video](https://drive.google.com/file/d/1DVU9wBS3M9GlXK64QUhsDMTLWBkojL4n/view?usp=sharing)
+
 
 ---
 
