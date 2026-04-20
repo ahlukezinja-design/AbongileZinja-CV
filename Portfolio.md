@@ -1,6 +1,6 @@
 # PRP370S: Project Presentation 3 Portfolio
-**Student:** Abongile Zinja  
-
+**Student        :** Abongile Zinja  
+**Student Number :** 222907029
 ---
 
 # Abongile Zinja-CV
